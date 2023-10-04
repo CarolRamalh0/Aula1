@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    background-color: #4169e1;
+    color: #b4bedb;
+    font-family: Arial, Helvetica, sans-serif;
+
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: 900;
+    letter-spacing: 1px;
+    line-height: 2;
+    margin: 1px;
+    padding-block-end:1px;
+    
+
+}
